@@ -55,7 +55,7 @@ Para rodar os testes, use o comando:
 
 A documentação da API é gerada e disponibilizada através do Swagger. Após iniciar a aplicação, você pode acessá-la no seguinte endereço:
 
-[Swagger UI - Documentação da API](http://localhost:8080/swagger-ui.html)
+[Swagger UI - Documentação da API](http://localhost:8080/swagger-ui/index.html)
 
 ## API Endpoints
 
