@@ -1,6 +1,4 @@
-Claro! Aqui está um README atualizado para o seu projeto `busca-cliente-API`, incluindo informações sobre como acessar o Swagger para visualizar a documentação da API:
 
----
 
 # Projeto: Busca Cliente API
 
@@ -10,8 +8,10 @@ A **Busca Cliente API** é uma aplicação back-end construída com Spring Boot,
 
 ## Layout da Aplicação
 
-### <img
-### [🔗 Screenshot 2](link_para_screenshot2)
+![Captura de tela 2024-08-18 184251](https://github.com/user-attachments/assets/e20e470f-1a99-4348-90d6-6f11d754e0c9)
+![swagger1](https://github.com/user-attachments/assets/b6e74b8b-0cf0-4a5e-975a-4b89a311ae8a)
+![Captura de tela 2024-08-18 184933](https://github.com/user-attachments/assets/801e1fac-2a0f-4335-b3ca-5a1f49aa298d)
+
 
 ## Tecnologias Utilizadas
 
